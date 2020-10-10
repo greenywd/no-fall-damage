@@ -1,0 +1,12 @@
+{
+	"Name": "no-fall-damage",
+	"Authors": [ "greeny" ],
+	"Description": "Removes fall damage.",
+	"Version": "1.0.0",
+	"HasWebUI": false,
+	"HasVeniceEXT": true,
+	"Dependencies": 
+	{
+		"veniceext": "^1.0.0"
+	}
+}
